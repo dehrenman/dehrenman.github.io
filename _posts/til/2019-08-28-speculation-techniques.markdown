@@ -60,8 +60,14 @@ I'm giving a short summary here, but I'll write up another article on the pipeli
 - MEM (Memory accessa)
 
    If memory access needs to be done, it is done here.
-   I'm not sure why this happens before the execution stage. I'll need to ask and make an update
-   ##TODO## Update this.
+   If you're like me, you're thinking of instructions like "take memory location and register and add them and write them to memory", you might be very confused by how this happens AFTER the EX stage.
+   That's because we're talking RISC here. There are no instructions like that. Instead,
+   what's going to happen is that operation is going to be broken down into multiple
+   instructions, more like:
+      - read memory location xxx into register (no EX stage, only MEM stage)
+      - add two registers and store into register
+      - write register to memory
+   and each time a memory access is done, an entire cycle is consumed.
 
 - WB (Register Writeback)
 
