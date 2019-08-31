@@ -5,7 +5,13 @@ date:   2019-08-31 05:16:19 -0400
 categories: philosophy
 ---
 
-In this article, I'll try to introduce you to my patron saint of sorts, a legendary Ancient Chinese engineer, political philosopher, altruist, and stoic-ish character. Legendary, because all we have left of him is stories, myths, and legends. We're not even sure if Mo Zi is actually the kind of guy legend says he is, or if he's just a filing cabinet, into which people dump made-up stories that looked like they might fit onto him. Stories that capture what they value and what they want in life.
+In this article, I'll try to introduce you to my patron saint of sorts, a legendary Ancient Chinese engineer, political philosopher, altruist, and stoic-ish character.
+
+Legendary, because all we have left of him is stories, myths, and legends. We're not even sure if Mo Zi is actually the kind of guy legend says he is, or if he's just a filing cabinet, into which people dump made-up stories that looked like they might fit onto him. Stories that capture what they value and what they want in life.
+
+Stoic-ish, because to say he's a stoic would make less sense than to say all stoics are Mohists -- he preceeds Zeno of Citium, founder of the Stoic school of philosophy.
+
+But before I tell you of my fascination with this character, I'm going to go all academic and im-personal and tell you a bit about the time and place where Mo Zi existed.
 
 ## The Warring States
 
