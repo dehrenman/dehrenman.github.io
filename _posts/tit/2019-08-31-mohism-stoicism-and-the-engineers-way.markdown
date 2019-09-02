@@ -37,7 +37,7 @@ At this time there were the "Hundred Schools of Thought", schools of philosophy 
 
 ## Mo Zi
 
-Of the great and not-so-great teachers leading the hundred schools, one in particular interests me. Engineer, philosopher, altruist, and somewhat of a stoic-ish character, the legacy of Mo Zi represents some of the values I try to have in my life.
+Of the great and not-so-great teachers leading the hundred schools, Mo Zi aligns especially to my values and the identity I'm hoping for. Engineer, philosopher, altruist, and somewhat of a stoic-ish character, the legacy of Mo Zi represents some of the values I try to have in my life.
 
 Here's a list of some of the things he represents -- or more like, I attribute to him, which I found in the stories about him:
 
