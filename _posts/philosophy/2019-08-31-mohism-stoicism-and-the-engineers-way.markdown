@@ -37,7 +37,17 @@ At this time there were the "Hundred Schools of Thought", schools of philosophy 
 
 ## Mo Zi
 
-Of the great and not-so-great teachers leading the hundred schools, Mo Zi aligns especially to my values and the identity I'm hoping for. Engineer, philosopher, altruist, and somewhat of a stoic-ish character, the legacy of Mo Zi represents some of the values I try to have in my life.
+Of the great and not-so-great teachers leading the hundred schools, Mo Zi aligns especially to my values and the identity I'm hoping for. Engineer, philosopher, altruist, and somewhat of a stoic-ish character, the legacy of Mo Zi represents a lot of things I would like in my life.
+
+The doctrine of the Mohists is highly meritocratic. People with wisdom (as judged by know-how) are respected, and less emphasis is placed on tradition, tenure, age, wealth, or blood. From the many stories of Mozi and his deciples, the Mohist seem like a cult of engineers, much like how the Pythagoreans are a cult of mathematicians.
+
+For example, there is this story of MoZi and the legendary carpenter Lu Ban. 
+
+Over the entire history of China, Confucianism is the constant backdrop. And I hate it. Confucianism places high emphasis on respect for existing systems, for people who have been in positions of power for long periods. Confucianism is strongly opposed to change, to upheaval, to new practices and strange ideas, and it advocates of extravagant  Mohists specifically condemn certain aspects of Confucianism that I also hate. The Mohist essays include titles such as "Condemning Ceremonies", "Moderation in use", and "Moderation in burial", that argues that resources expended on extravagent entertainment and ceremonies could be better spent for the common good.
+
+Mohism is also vehemently opposed to 
+
+
 
 Here's a list of some of the things he represents -- or more like, I attribute to him, which I found in the stories about him:
 
