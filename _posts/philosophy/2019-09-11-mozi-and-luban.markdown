@@ -46,6 +46,23 @@ At this point, I imagine Lu Ban letting out a deep breath of relief, for now tha
 I'm not sure what the King thought about Mo Di, but Mo was allowed to return to the land of Song. Nobody knew what he had one, and the guards wouldn't let him in. So he camped for three days and three nights in the rain, outside the city that he had saved.
 
 ## What I liked about what Mo Di did
+
+As sort of a backdrop for what I'm about to say, I want to point out that Mo is an engineer, and a good one when it comes to defence and productive equipment. I feel a kind of closeness for this, but I don't quite admire this part. Don't get me wrong - - I do admire talent and effort and understanding of applied physics. But that just proves tha Mo has a sound mind and thinks about his own future.
+
+What really felt special to me was how considerate and compassionate he is, at great cost to himself. He raced to Chu on foot when he could have taken his belongings and everyone important to him and moved elsewhere. He is a pacifist, and he seems to care a lot about human lives. To realize this universal care and respect for life, he put himself into the extremely awkward and dangerous situation between Lu Ban and the King, risking his life. And when he talked the king and the carpenter into not waging war, it was clear that he didn't exclude the two aggressors from his care either - - he reasoned in terms of their best interest, and set up the situation such that choosing peace over war not only makes them feel like good people but also serves their other interests.
+
+And from the story I don't see him complaining about his foot or his nights outside the city. I see a proud old man telling his students about what he did. And I see him ending every story telling session with "and it's worth it".
+
+The kind of risks he take, the kind of rewards he seek (benefits for others, rewards of principle) all convince me that he's an admirable person, and a brave one too. Reminds me of N.N. Taleb's concept of skin-in-the-game, and soul in the game. Mo took a huge gamble, and his rewards are mostly moral and on a pricipal level, paid out in benefits to others, including the King and the carpenter. Especially when he set it up so that the duo were forced to have skin in the game and prevented from shirking responsibility for the siege. That's a really cool thing that he did.
+
+
+----
+an outline i did during the writing of this post:
+
+
+
+
+
 - Social engineering, drawing the best out of people
     - Knowing people's weaknesses, but instead of poking them in their weak spots, take care of their interests and feelings to accomplish one's goals.
 - Engineering for good
