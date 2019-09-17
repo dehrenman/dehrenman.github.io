@@ -16,10 +16,10 @@
 title: Fireplume
 email: infraredhammerhead@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is where I talk about life, about the struggle to be more, and about resillience in the face of crushing failure.
+  This site is where I talk about life, about the struggle to be more, and about trying once and more to face the threat and reality of failure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fireplu.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username:  renxida
 logo: assets/logo.png
 
