@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Mozi and Luban"
 date:   2019-09-11 17:16:19 -0400
 categories: philosophy
