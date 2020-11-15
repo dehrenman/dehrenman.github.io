@@ -1,3 +1,11 @@
+<style>
+.textfield {
+    margin-bottom: 1em;
+}
+.textfield__input {
+    width: 100%
+}
+</style>
 <form class="js-form form" method="post" action="{{ site.staticman_url }}">
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
