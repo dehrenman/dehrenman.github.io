@@ -45,3 +45,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+
+# staticman comments
+staticman_url: https://staticman-travisdownsio.herokuapp.com/v2/entry/renxida/renxida.github.io/master/comments
+reCaptcha:
+  siteKey: 6LdBFuMZAAAAAONO-Vztyz-Mp3VYHWfp7BkxNIAO
+  secret: 6LdBFuMZAAAAAK2MDcFAnCLfcSPSBwmtdOQub_Tv
+
+
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      comments: true
+
