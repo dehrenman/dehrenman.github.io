@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Etymological History of Addressing People in Chinese: Little Big Sister, Gay Comrades, and I Call you Auntie but We Know You're Just A Girl"
+title:  "Little Big Sister, Gay Comrades, and Auntie-Girl"
 date:   2020-11-03 14:22:19 -0400
 categories: 
 ---
-
-*This is an edited excerpt of my chat logs with my friend Rainflower. I figured it might be an interesting read so I post it here.*
+Etymological History of Addressing People in Chinese; This is an edited excerpt of my chat logs with my friend Rainflower. I figured it might be an interesting read so I post it here.
 
 It's kindda funny how addressing people in Chinese works.
 
