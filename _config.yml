@@ -22,6 +22,7 @@ url: "http://fireplu.me" # the base hostname & protocol for your site, e.g. http
 #twitter_username: jekyllrb
 github_username:  renxida
 logo: assets/logo.png
+google_analytics: G-9V9TH3RMYD
 
 # Build settings
 markdown: kramdown
