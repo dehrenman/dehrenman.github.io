@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Pink Wojak Index: Measuring Despair in the Cesspool of the Internet"
+title:  "The Pink Wojak Index"
 date:   2020-11-15 14:22:19 -0400
 categories: 
 ---
-[wojakindex.com](http://wojakindex.com) gauges the level of stock crash despair using through the cesspool of the internet, [4chan /biz/](https://boards.4channel.org/biz/catalog).
+Measuring Despair in the Cesspool of the Internet. [wojakindex.com](http://wojakindex.com) gauges the level of stock crash despair using through the cesspool of the internet, [4chan /biz/](https://boards.4channel.org/biz/catalog).
 
 ## Inspiration
 My inspiration came from two places.
