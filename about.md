@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome. I am David Ehrenman. This is my personal blog.
+Welcome, I am David Ehrenman! This is my personal blog. 
 
 This site is made with Jekyll.
 

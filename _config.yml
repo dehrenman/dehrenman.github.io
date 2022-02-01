@@ -16,7 +16,7 @@
 title: Life in Circles
 email: david.ehrenman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A small man's ventures into the lands of Faerie and Philosophy
+  An adventurer into the lands of Faerie and Philosophy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lifeincircles.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
