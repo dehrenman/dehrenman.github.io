@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Welcome. I am Xida Ren. This is my personal blog.
+Welcome. I am David Ehrenman. This is my personal blog.
 
-This site is made with Jekyll, and the comment sections are made with Staticman.
+This site is made with Jekyll.
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /

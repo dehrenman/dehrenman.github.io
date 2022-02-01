@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fireplume
-email: infraredhammerhead@gmail.com
+title: Life in Circles
+email: david.ehrenman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is where I talk about life, about the struggle to be more, and about trying once and more to face the threat and reality of failure.
+  A small man's ventures into the lands of Faerie and Philosophy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fireplu.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://lifeincircles.net" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  renxida
-logo: assets/logo.png
+github_username:  dehrenman
+#logo: 
 google_analytics: G-9V9TH3RMYD
 
 # Build settings
@@ -48,8 +48,6 @@ plugins:
 #   - vendor/ruby/
 #
 
-# staticman comments
-staticman_url: https://static-man-fireplume.herokuapp.com/v2/entry/renxida/renxida.github.io/master/comments
 #reCaptcha:
     #  siteKey: 6LdBFuMZAAAAAONO-Vztyz-Mp3VYHWfp7BkxNIAO
     #  secret: oqE9u6wCaZh0h08Faght8JCqwgyFNJinMv+JUuaX4xLaQGM4tZ6Kutjzu2Ytmm/KsuCRY+BQnvqg34dtjAXA9TGYOYv2VjGIwknRC87yj4yl+suoohtPareJS5BQ3TsJHflj5/uSBqt82atneNRH9H9tgv+EmVrfCQI7HSkjzddnbIuFjBsV17/QVU49bhH+/iMNp04NXZKL9d51MxKz8tg0ffaWPDpzH9IN0l6VolZIaeyvkor6OKuV41mkc05IPaJUP/saDfmSTlDuT7PMsBfIAj1sF3z76S9suA4BdvOVSvm8TB1yHhQRrQOF6SxQ3WPQLs6vw77aaogoI8p5eoO+wCJa24266E4VJAOM9I9latU8raKzsvsItyzS9vRCfl2CtxPDDBioWX32VaDqdGlJZAuXKVOWHxNKZ9bn03drMCiDD/omjwqOETSXvoYPmvIoGDzM4/boRxClBOUvqvP+429wEZYG3zdc9BF0gMm3ITkQ04R94LcBn6jmgJlRds92EKoMAVGgN0WmJIXin6i65DihDmeJT886Vh6o0KpyRh+9SVYL1pnfU61khtnQK95P78kcBHEVtsB3Ex1N8klFsAZTueWQRVnjJKwHs7NuLUF+en73cWCfqnx+TmsFrG2Cb+ClezEUoOFR0QYaJMxm+SbqGuycVEDfU3bsLb4=
