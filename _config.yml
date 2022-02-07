@@ -63,3 +63,5 @@ defaults:
 
 # theme
 theme: minima
+
+show_excerpts: true
