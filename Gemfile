@@ -34,3 +34,6 @@ gem 'jekyll-scholar'
 # sitemap for google seo
 gem 'jekyll-sitemap'
 
+# theme
+gem "minima"
+$ bundle
