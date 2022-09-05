@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome, I am David Ehrenman! This is my personal blog. 
+Welcome to my personal blog! I mostly post fiction in the fantasy space but my writing also spans literary criticism and theory, philosophy, poetry, and other areas. Hope you enjoy! 
 
 This site is made with Jekyll.
 
