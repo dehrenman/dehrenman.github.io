@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Premovision"
-date: 
+date: 2022-09-05 13:49:23
 categories:
 ---
 # Premovision
