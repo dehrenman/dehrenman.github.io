@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Premovision"
+date: 2022-09-05 14:26:41 -200
+categories: none
+---
 # Premovision
 
 A little ways off I saw a figure. Taking a moment, I peered at the features, forgetting anything of politeness. The heavy mist should have hindered my eyes, already weak, but strangely, this figure seemed to fit the haze. Of course! It was Willow. Somehow she was here, in the same place I so wildly wandered into, and here she was in a different outfit than earlier in the day. Now, bark almost blue and leaves so softly green they neared lavender wove together and faded seamlessly into the fog. I saw her so clearly, nearly head-on, but I couldn't at all tell if she saw me. It seemed like she was distantly conscious of me but her awareness was not concentrated on me, or anything else for that matter. She didn't look like she was daydreaming, but I could not tell whether she had any focus at all.
