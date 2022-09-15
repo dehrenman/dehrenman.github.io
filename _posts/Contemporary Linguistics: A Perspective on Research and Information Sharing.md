@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contemporary Linguistics: A Perspective on Research and Information Sharing"
-date: 2022-09-12 09:19:21
+date: `r Sys.Date()`
 categories: 
 ---
 # Contemporary Linguistics: A Perspective on Research and Information Sharing
