@@ -2,7 +2,7 @@
 layout: post
 title: "Premovision"
 date: `r Sys.Date()`
-categories: none
+categories: blog
 ---
 # Premovision
 
