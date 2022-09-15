@@ -12,7 +12,7 @@ Moving towards Willow, I waited to call out. I didn't really want to address her
 
 I came to the first set of waterfalls I needed to cross. 
 
-"You have good vision," a deep voice spike. Not quite startled, I looked around for the speaker. Not five yards away stood a grand stone, flat-topped and roundly smooth while still natural and rough. As it rose between two-foot waterfalls, the stone looked like a roofless pillar or an altar. It seemed too full of soul, though, to seat a sacrifice or a Simon Stylites. Willow still did not quite face us. 
+"You have good vision," a deep voice spike. Not quite startled, I looked around for the speaker. Not five yards away stood a grand stone, flat-topped and roundly smooth while still natural and rough. As it rose between two-foot waterfalls, the stone looked like a roofless pillar or an altar. It seemed too full of soul to seat a sacrifice, though, or a Simon Stylites. Willow still did not quite face us. 
 
 "Thank you, but I'm actually pretty short-sighted." 
 
