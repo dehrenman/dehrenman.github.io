@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Premovision"
-date: "`r Sys.Date()`"
+date: `r Sys.Date()`
 categories: none
 ---
 # Premovision
