@@ -2,7 +2,7 @@
 layout: post
 title: "Contemporary Linguistics: A Perspective on Research and Information Sharing"
 date: `r Sys.Date()`
-categories: blog
+categories: none
 ---
 # Contemporary Linguistics: A Perspective on Research and Information Sharing
 
