@@ -4,6 +4,9 @@ title:  "The Dread Knight"
 date:   2022-01-31 14:22:19 -0400
 categories: 
 ---
+
+A knight learns of duty and leadership
+
 # The Dread Knight
 
 Raylen Blaiss hefted his massive two-handed sword. The span between the crosshilts was almost as wide as him, while the length of the sword reached from the ground to his neck. Clad in fully plated armor, the knight stood beside his fellows. Their arms and armor were all similar, but most of these knights added some touch to show their individuality, for each of them had earned great renown. These were the Veldama. More steadfast than any other soldier, Veldama knights could crush any opposing force. Only overwhelming numbers could push them back when they stood firm, and nothing but death could truly dislodge them. Sir Raylen had fought many battles under the noble warrior Morthen and won his place alongside these knights of greatest prowess many times over.
